@@ -4,8 +4,6 @@
 
 Programming language used: __Python and Processing GUI__
 
-Fun Fact: __Scored Full (100%)!__ 😉
-
 __How to Play:__
 - Use arrow keys (Right and Left) to navigate as the blocks fall down automatically.
 - To score a point, 4 same color consecutive blocks should be placed vertically. 
